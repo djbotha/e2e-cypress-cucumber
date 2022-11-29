@@ -5,7 +5,7 @@ This repository contains the code used in my series of blogs for @polymorph001.
 # Branches
 
 Each article has its own branch:
-1. Web E2E Testing with Cypress & Cucumber — `1-intro-and-demo`
+1. Web E2E Testing with Cypress & Cucumber — [`1-intro-and-demo`](https://github.com/djbotha/e2e-cypress-cucumber/tree/1-intro-and-demo)
 
 # Getting Started
 
