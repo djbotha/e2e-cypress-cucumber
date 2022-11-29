@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { login } from "../utils/auth";
 
 function Login() {
   const [email, setEmail] = useState("");
@@ -10,7 +9,7 @@ function Login() {
     e.preventDefault();
 
     try {
-      await login(email, password);
+      // call some login function
 
       setLoggedIn(true);
     } catch (e) {
